@@ -9,3 +9,9 @@ This repository contains the initial simulation, theory, and data backing Duncan
 - 📊 Supporting graphs and images
 
 This theory challenges the current dark matter/energy paradigm and proposes a new framework that matches observed galactic clustering without gravity.
+
+**Tags:**  
+#DuncansPostulate #UnifiedFieldTheory #HyperfluidModel #PsiMuNu #DarkMatter #DarkEnergy  
+#Cosmology #Astrophysics #TheoreticalPhysics #Spacetime #QuantumGravity  
+#GalacticFormation #PhysicsSimulation #ComputationalPhysics #NewPhysics  
+#NatureOfTheUniverse #FabricOfReality #SpaceSoup #ScienceRevolution #EinsteinWasClose
